@@ -4,7 +4,7 @@
 
 1. Start an Amazon Elastic MapReduce (EMR) Cluster using Quickstart with the follwing setup (as shown in the picture):
 	*  Give the cluster a name that is meaningful to you
-	*  Use Release `emr-5.11.1`
+	*  Use newest release from the drop-down (which may be different than the screen-shots)
 	*  Select the first option under Applications
 	*  Select 1 master and 2 core nodes, using `m4.large` instance types
 	*  Select your correct EC2 keypair or you will not be able to connect to the cluster
